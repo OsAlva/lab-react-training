@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,38 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.id-card{
+  border: 2px solid red;
+  padding: 20px;
+  margin: 5px;
+  display: flex;
+}
+
+img{
+  padding: 10px;
+}
+
+.saludo{
+  border: 2px solid red;
+  padding: 20px;
+  margin: 5px;
+}
+
+.random{
+  border: 2px solid red;
+  padding: 20px;
+  margin: 5px;
+}
+
+.box-color{
+  border: 2px solid rgb(0, 0, 0);
+  margin: 5px;
+}
+
+.credit-card{
+  border: 2px solid rgb(0, 0, 0);
+  background-color: aqua;
+  margin: 5px;
+  padding-left: 20px;
 }
